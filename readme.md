@@ -44,92 +44,14 @@ The **BMW Project** is a frontend web application designed to:
 
 ---
 
-## Project Structure
-
-bmw-project/
-├── assets/
-│ ├── images/ → Backgrounds & vehicle images
-│ └── videos/ → Login background GIF
-├── css/
-│ └── electric.css → Core styling file
-├── js/
-│ ├── bmw.js → Handles login, modals, and cart
-│ └── shop.js → Payment & cart logic
-├── cart/ → cart.html with parallax & form
-├── electric/ → electric.html EV page
-├── shop/ → shop.html storefront
-├── userreg/ → login.html & signup.html
-├── index.html → Homepage
-└── README.md → Project documentation
 
 
+## 🤝 Let's Connect
 
----
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/Thousifibrahim)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:contact.thousif+github@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/thousif-ibrahim-29050421b)
 
-##  Setup & Testing Instructions
+**Developed & Designed with passion by Thousif IbrahimThousif Ibrahim** | Open to Opportunities
 
-### 🧾 Clone the Project
-```bash
-git clone https://github.com/yourusername/bmw-project.git](https://github.com/Thousifibrahim/bmw.git)
-cd bmw-project
-```
-Run Locally
-Recommended: Open with Live Server in VS Code
-Or use Python HTTP Server:
----
-
-## Styling & Guidelines
-BMW Theme:
-#007bff (blue), #fff (white), #000 (black)
----
-
-## Contributing :
-
-1.Fork this repo
-2.Create a new branch:
-3.git checkout -b feature/amazing-feature
-4.Commit changes:
-5.git commit -m "Add amazing feature"
-6.Push your branch:
-7.git push origin feature/amazing-feature
-8.Open a Pull Request 🚀
-
-⚠️ License & Disclaimer
-⚠️ This is an educational project. All BMW trademarks/images belong to their respective owners.
-    Ensure no commercial usage without permission.
----
-Developed & Designed with passion by Thousif Ibrahim
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Myspace**
-
-<!-- 🚧 Future Enhancements :
-💳 Real payment integration (Stripe/PayPal)
-🧠 Backend: Auth + cart persistence
-📱 Improved accessibility & SEO
-🎞 Animated hero sections (WebP/video) -->
-
-
-<!-- 🖼 Screens & Features to Check
-
-🧲 Parallax Backgrounds → /cart/cart.html, /userreg/login.html
-💳 Payment Form → Inputs, styled buttons, payment methods
-🛒 Cart Features → Add/remove items, proceed to payment
-🔐 Modals → Login, test drive booking, dealer contact
-⚡️ EV Page → Explore BMW electric models -->
+</div>
